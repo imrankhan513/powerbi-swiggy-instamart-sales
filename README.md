@@ -4,7 +4,7 @@
 This project presents an interactive Power BI dashboard analyzing Swiggy Instamart sales data. It provides insights into sales performance, order trends, and category-wise analysis.
 
 ## 📷 Dashboard Preview
-<img src="swigy_dashboard.png" width="100%">
+![Dashboard](dashboard.png)
 
 ## 🚀 Key Features
 - Total Sales: 1.20M and Orders: 9K  
